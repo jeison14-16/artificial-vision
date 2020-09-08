@@ -1,4 +1,3 @@
-#Developer: Joan C. Ayala
 #Script: this program let you add two static numbers
 
 #clear screen class
