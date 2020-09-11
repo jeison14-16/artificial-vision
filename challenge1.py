@@ -13,3 +13,5 @@ os.system("cls")
 
 print("Dice 1: ", dice1)
 print("Dice 2: ", dice2)
+
+print("Suma: ", dice1+dice2)
